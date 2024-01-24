@@ -1,7 +1,7 @@
 - Hi there, I'm Niccolo 👋 Welcome to my GitHub!
 - 🛡️ I am a Cyber Security Analyst and Enthusiast.
 - 🧪 You can find CyberSecurity projects here fresh from my Home Lab.
-- 🕵️ I am currently working on a Forensic Investigation project!
+- 🦠 I am currently working on a Forensic Malware Analysis project!
 
 If you are a fellow enthusiast or recruiter or just want to talk Cyber Security, please reach out!
 
