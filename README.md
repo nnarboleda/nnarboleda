@@ -1,5 +1,5 @@
 - Hi there, I'm Niccolo 👋 Welcome to my GitHub!
-- 🛡️ I am a Cyber Security Analyst and Enthusiast.
+- 🛡️ I am a Cyber Security Analyst.
 - 🧪 You can find CyberSecurity projects here fresh from my Home Lab.
 - 🦠 I am currently working on a Malware Analysis project!
 
