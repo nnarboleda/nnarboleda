@@ -1,4 +1,4 @@
-- Hi there, I'm Niccolo 👋 Welcome to my GitHub!
+- 👋 Hi there, Welcome to my GitHub!
 - 🛡️ I am a Cyber Security Enthusiast.
 - 🧪 You can find CyberSecurity projects here fresh from my Home Lab.
 - 🔑 I am currently working on a Honey Token Project.
