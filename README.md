@@ -1,7 +1,7 @@
 - Hi there, I'm Niccolo 👋 Welcome to my GitHub!
-- 🛡️ I am a Cyber Security Analyst.
+- 🛡️ I am a Cyber Security Enthusiast.
 - 🧪 You can find CyberSecurity projects here fresh from my Home Lab.
-- 🔑 I am currently working on a Detection Engineering project!
+- 🔑 I am currently working on a Honey Token Project.
 
 If you are a fellow enthusiast or recruiter or want to discuss cybersecurity, please reach out!
 
