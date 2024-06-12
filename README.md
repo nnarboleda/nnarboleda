@@ -1,7 +1,7 @@
 - 👋 Hi there, Welcome to my GitHub!
 - 🛡️ I am a Cyber Security Enthusiast.
 - 🧪 You can find CyberSecurity projects here fresh from my Home Lab.
-- One of my projects was featured in Black Hills Information Security: https://www.blackhillsinfosec.com/at-home-detection-engineering-lab-for-beginners/
+- 📄 One of my projects was featured in Black Hills Information Security: https://www.blackhillsinfosec.com/at-home-detection-engineering-lab-for-beginners/
 - 🔑 I am currently working on a Honey Token Project.
 
 If you are a fellow enthusiast or recruiter or want to discuss cybersecurity, please reach out!
